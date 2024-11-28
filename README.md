@@ -90,7 +90,6 @@ We welcome contributions to make this repository more valuable for learners! Her
    ```  
 5. Create a pull request on GitHub.  
 
-Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ---
 
