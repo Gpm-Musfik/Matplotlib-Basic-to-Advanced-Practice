@@ -9,7 +9,7 @@ Welcome to the **Matplotlib: Basic to Advanced Practice** repository! This proje
 
 1. [About](#about)  
 2. [Getting Started](#getting-started)  
-3. [Problems Included](#problems-included)  
+3. [Topics Included](#topics-included)  
 4. [How to Use This Repository](#how-to-use-this-repository)  
 5. [Contributing](#contributing)  
 6. [License](#license)  
@@ -48,7 +48,7 @@ pip install matplotlib numpy pandas seaborn
 
 ---
 
-## Problems Included
+## Topics Included
 
 This repository is divided into sections covering the following topics:  
 1. **Basics**  
@@ -57,8 +57,6 @@ This repository is divided into sections covering the following topics:
    - Subplots, legends, annotations, and style customization  
 3. **Advanced**  
    - 3D plotting, and interactive visualizations 
-4. **Challenges**  
-   - Open-ended exercises to test your skills  
 
 ---
 
